@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mpinb/conda-env-replicator/main/conda-env-replicator-logo.png" alt="conda-env-replicator logo" width="600">
+
 # conda-env-replicator
 
 Create portable conda environment files that work across OS and glibc upgrades by removing overly-specific build strings while preserving critical CUDA/GPU requirements.
+</div>
 
 [![PyPI version](https://badge.fury.io/py/conda-env-replicator.svg)](https://badge.fury.io/py/conda-env-replicator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
