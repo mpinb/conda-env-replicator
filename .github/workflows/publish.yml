@@ -8,7 +8,7 @@ on:
     types: [published]
   # This workflow is triggered on push events only for the master branch
   push:
-    branches: [ master ]
+    branches: [ master, main ]
   # This workflow can also be manually started from the Actions tab in GitHub
   # Used also for manual testing on the dist-package branch
   workflow_dispatch:
