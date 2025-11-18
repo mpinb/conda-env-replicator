@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "conda-env-replicator"
-version = "0.1.1"
+version = "0.1.2"
 description = "Create portable conda environment files for OS/glibc upgrades"
 readme = "README.md"
 authors = [
